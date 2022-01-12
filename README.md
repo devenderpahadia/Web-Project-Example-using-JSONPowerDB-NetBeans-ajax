@@ -74,10 +74,10 @@ In this project, you can do the following:
 &nbsp;&nbsp;
 
 ## Screenshots
-![Validation](https://github.com/snippy066/assignment/blob/main/projectImage/assign1.png)&nbsp;&nbsp;
-![Executation](https://github.com/snippy066/assignment/blob/main/projectImage/assign2.png)&nbsp;&nbsp;
-![Result](https://github.com/snippy066/assignment/blob/main/projectImage/assign3.png)&nbsp;&nbsp;
-![Database](https://github.com/snippy066/assignment/blob/main/projectImage/assign4.png)&nbsp;&nbsp;
+![Validation](https://github.com/devenderpahadia/Web-Project-Example-using-JSONPowerDB-NetBeans-ajax/blob/main/WebFormExample/validation.png)&nbsp;&nbsp;
+![Executation](https://github.com/snippy066/assignment/blob/main/projectImage/Execution.png)&nbsp;&nbsp;
+![Result](https://github.com/snippy066/assignment/blob/main/projectImage/Result.png)&nbsp;&nbsp;
+![Database](https://github.com/snippy066/assignment/blob/main/projectImage/JSONPDB.png)&nbsp;&nbsp;
 
 
 -----
