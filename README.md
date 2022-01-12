@@ -75,9 +75,9 @@ In this project, you can do the following:
 
 ## Screenshots
 ![Validation](https://github.com/devenderpahadia/Web-Project-Example-using-JSONPowerDB-NetBeans-ajax/blob/main/WebFormExample/validation.png)&nbsp;&nbsp;
-![Executation](https://github.com/snippy066/assignment/blob/main/projectImage/Execution.png)&nbsp;&nbsp;
-![Result](https://github.com/snippy066/assignment/blob/main/projectImage/Result.png)&nbsp;&nbsp;
-![Database](https://github.com/snippy066/assignment/blob/main/projectImage/JSONPDB.png)&nbsp;&nbsp;
+![Executation](https://github.com/devenderpahadia/Web-Project-Example-using-JSONPowerDB-NetBeans-ajax/blob/main/WebFormExample/Execution.png)&nbsp;&nbsp;
+![Result](https://github.com/devenderpahadia/Web-Project-Example-using-JSONPowerDB-NetBeans-ajax/blob/main/WebFormExample/Result.png)&nbsp;&nbsp;
+![Database](https://github.com/devenderpahadia/Web-Project-Example-using-JSONPowerDB-NetBeans-ajax/blob/main/WebFormExample/JSONPDB.png)&nbsp;&nbsp;
 
 
 -----
